@@ -8,11 +8,10 @@ It is a Grocery website where you can buy day to day grocery for your Household.
 https://bigbasket-gold.vercel.app/
 
 <h2>Team Members</h2>
-1.Nikhil <br>
-2.Vaibhav <br>
-3.Prateek <br>
-4.Bikram <br>
-5.Sammyak <br>
+1.Deepak <br>
+2.Lavanya <br>
+3.Riya <br>
+4.Yash <br>
  
  ---
 
