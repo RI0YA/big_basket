@@ -12,7 +12,7 @@ https://bigbasket-gold.vercel.app/
 2.Vaibhav <br>
 3.Prateek <br>
 4.Bikram <br>
-5.Sammyak <br>
+5.Riya Gupta <br>
  
  ---
 
